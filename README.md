@@ -23,4 +23,4 @@ Atualmente, estou desenvolvendo minha base em programação e aprendendo o bási
 
 ## Contato
 
-[E-mail](mailto:thiagomo.miranda80@gmail.com)
+- **E-mail:** [thiagomo.miranda80@gmail.com](mailto:thiagomo.miranda80@gmail.com)
