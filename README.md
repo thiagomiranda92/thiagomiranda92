@@ -1,16 +1,25 @@
-## Hi there 👋
+# Thiago Oliveira
 
-<!--
-**thiagomiranda92/thiagomiranda92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de desenvolvimento de software, aprendendo os fundamentos da programação e criando projetos para praticar.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou desenvolvendo minha base em programação e aprendendo o básico de:
+
+- Lógica de programação
+- HTML e CSS
+- Java
+- Python
+
+## Projetos
+
+- [Show do Milhão em Java](https://github.com/thiagomiranda92/show-do-milhao-java)
+- [Café Raízes](https://github.com/thiagomiranda92/cafe-raizes)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub de Thiago Oliveira](https://github-readme-stats.vercel.app/api?username=thiagomiranda92&show_icons=false&hide_border=true&locale=pt-br)
+
+## Contato
+
+[E-mail](mailto:thiagomo.miranda80@gmail.com)
