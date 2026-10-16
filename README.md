@@ -18,7 +18,7 @@ Atualmente, estou desenvolvendo minha base em programação e aprendendo o bási
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub de Thiago Oliveira](https://github-readme-stats.vercel.app/api?username=thiagomiranda92&show_icons=false&hide_border=true&locale=pt-br)
+![Estatísticas do GitHub de Thiago Oliveira](https://github-readme-stats.vercel.app/api?username=thiagomiranda92&show_icons=false&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=E6EDF3&locale=pt-br)
 
 ## Contato
 
