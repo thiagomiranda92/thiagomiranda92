@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/update-stats.yml
+      - scripts/generate_stats.py
 
 jobs:
   build:
@@ -20,13 +21,9 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Gerar cartão de estatísticas
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=false&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=E6EDF3&locale=pt-br
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
+        run: python3 scripts/generate_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Salvar cartão
         run: |
